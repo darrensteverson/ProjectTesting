@@ -1,0 +1,25 @@
+.containerMood {
+    height: 50em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 }
+  
+    h1{
+        font-size: 70px;
+        margin: 0
+    }
+
+    .container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        position: absolute;
+
+        
+
+    }
+    button{
+        margin: 5px;
+    }
